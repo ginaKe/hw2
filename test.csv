@@ -1,0 +1,43 @@
+country,continent,age,pop,year
+New Taipei,North,20,306,108
+New Taipei,North,24,"2,114",108
+New Taipei,North,29,"5,951",108
+New Taipei,North,34,"10,134",108
+New Taipei,North,39,"7,678",108
+New Taipei,North,44,"1,704",108
+New Taipei,North,45,78,108
+Taipei,North,20,77,108
+Taipei,North,24,665,108
+Taipei,North,29,"3,121",108
+Taipei,North,34,"8,262",108
+Taipei,North,39,"7,168",108
+Taipei,North,44,"1,603",108
+Taipei,North,45,90,108
+Taoyuan,North,20,289,108
+Taoyuan,North,24,"1,940",108
+Taoyuan,North,29,"5,626",108
+Taoyuan,North,34,"8,265",108
+Taoyuan,North,39,"5,293",108
+Taoyuan,North,44,"1,040",108
+Taoyuan,North,45,40,108
+Taichung,Middle,20,279,108
+Taichung,Middle,24,"1,768",108
+Taichung,Middle,29,"5,181",108
+Taichung,Middle,34,"7,827",108
+Taichung,Middle,39,"5,102",108
+Taichung,Middle,44,998,108
+Taichung,Middle,45,54,108
+Tainan,South,20,133,108
+Tainan,South,24,887,108
+Tainan,South,29,"2,582",108
+Tainan,South,34,"4,342",108
+Tainan,South,39,"3,129",108
+Tainan,South,44,612,108
+Tainan,South,45,26,108
+Kaohsiung,South,20,217,108
+Kaohsiung,South,24,"1,598",108
+Kaohsiung,South,29,"4,467",108
+Kaohsiung,South,34,"6,783",108
+Kaohsiung,South,39,"5,005",108
+Kaohsiung,South,44,"1,025",108
+Kaohsiung,South,45,55,108
